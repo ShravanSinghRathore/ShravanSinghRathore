@@ -19,5 +19,6 @@ I'm always open to collaboration and welcome opportunities to work with like-min
 
 📧 **मेरे साथ जुड़ें:**
 Feel free to connect with me to discuss cybersecurity trends, share insights, or explore potential collaborations. Let's work together to build a resilient and secure digital future.
+https://www.linkedin.com/in/shravan-s-628b36172/
 
-#Cybersecurity #EthicalHacking #InfoSec #DigitalDefense
+#HardwareSecurity #Cybersecurity #EthicalHacking #InformationSecurity #VulnerabilityResearch #EmbeddedSystems #IoTSecurity #FirmwareSecurity #InfoSecAwareness #NetworkSecurity #DataPrivacy #CyberThreats #DigitalForensics #PenetrationTesting #CyberAwareness #MalwareAnalysis #CyberDefense #SecurityAwareness #CyberEducation #RiskAssessment #IncidentResponse #CyberResilience #CyberRiskManagement #ThreatIntelligence #PrivacyProtection #DataSecurity #IdentityTheftProtection #CyberCrimePrevention #SoftwareSecurity #NetworkDefense #CyberSecurityAwareness #ITSecurity #DigitalSecurity #SecureDevelopment #CyberThreatIntelligence #ThreatDetection #SecurityEngineering #EndpointSecurity #CloudSecurity #WebSecurity #PasswordSecurity #PatchManagement #CyberTraining #CyberHygiene #PhishingPrevention #CyberAttackPrevention #ZeroDayVulnerabilities #SecureCoding #SecurityOperations #CyberSecurityAwarenessMonth
