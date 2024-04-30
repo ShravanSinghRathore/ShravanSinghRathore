@@ -40,7 +40,7 @@ Getting started with [**Hardware-and-IoT-Hacking**](https://github.com/CyberSecu
 ## [**CVE-2024-28325**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-28325)
 ## [**CVE 2024-28328**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-28328)
 
-**Happy hacking**
+# **Happy hacking**
 
 
-**"Stay curious, stay inventive, and stay tuned for the next big breakthrough in hardware hacking."**
+### **"Stay curious, stay inventive, and stay tuned for the next big breakthrough in hardware hacking."**
