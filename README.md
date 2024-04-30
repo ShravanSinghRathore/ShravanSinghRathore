@@ -34,6 +34,12 @@ For Reporting pl, reach out to **Contact Details** ---> **[CERT-In](https://www.
 
 Getting started with [**Hardware-and-IoT-Hacking**](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking)
 
+## [**CVE 2024-28327**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-28327)
+## [**CVE-2024-25343**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25343)
+## [**CVE-2024-28326**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-28326)
+## [**CVE-2024-28325**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-28325)
+## [**CVE 2024-28328**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-28328)
+
 **Happy hacking**
 
 
