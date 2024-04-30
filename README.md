@@ -20,13 +20,13 @@ I'm always open to collaboration and welcome opportunities to work with like-min
 📧 **मेरे साथ जुड़ें:**
 Feel free to connect with me to discuss cybersecurity trends, share insights, or explore potential collaborations. Let's work together to build a resilient and secure digital future.
 
-![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/c065431f-c800-443f-aaf0-e6f36b6c630c) https://www.linkedin.com/in/shravan-s-628b36172/
+ https://www.linkedin.com/in/shravan-s-628b36172/
 
-![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/1a466177-ac09-41d6-895c-ea905454af81) https://www.instagram.com/shrrra.1/
+ https://www.instagram.com/shrrra.1/
 
-![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/c6c08cf5-4909-4cc8-9c66-bf97369e01dc) https://api.whatsapp.com/send?phone=9326696110
+ https://api.whatsapp.com/send?phone=9326696110
 
-![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/a0d62a51-e396-4817-94e7-df4585eb7b5d) https://www.youtube.com/@aloneistvines7457
+ https://www.youtube.com/@aloneistvines7457
 
 
 
