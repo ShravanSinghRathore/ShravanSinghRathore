@@ -32,5 +32,7 @@ For Reporting pl, reach out to **Contact Details** ---> **[CERT-In](https://www.
 
 Getting started with [**Hardware-and-IoT-Hacking**](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking)
 
-Happy hacking 
-"Stay curious, stay inventive, and stay tuned for the next big breakthrough in hardware hacking."
+**Happy hacking**
+
+
+**"Stay curious, stay inventive, and stay tuned for the next big breakthrough in hardware hacking."**
