@@ -1,3 +1,5 @@
+# **Hardware hacking is like solving a puzzle with infinite solutions**
+
 🛡️ **साइबर सुरक्षा प्रेमी**
 
 खम्मा घणी! (Greetings), I'm **श्र-1 Singh Rathore**, a passionate cybersecurity professional dedicated to fortifying digital landscapes. I hold an M.Tech degree from Veermata Jijabai Technology Institute and currently serve as a Hardware Cybersecurity Researcher.
@@ -27,3 +29,8 @@ Feel free to connect with me to discuss cybersecurity trends, share insights, or
 #HardwareSecurity #Cybersecurity #EthicalHacking #InformationSecurity #VulnerabilityResearch #EmbeddedSystems #IoTSecurity #FirmwareSecurity #InfoSecAwareness #NetworkSecurity #DataPrivacy #CyberThreats #DigitalForensics #PenetrationTesting #CyberAwareness #MalwareAnalysis #CyberDefense #SecurityAwareness #CyberEducation #RiskAssessment #IncidentResponse #CyberResilience #CyberRiskManagement #ThreatIntelligence #PrivacyProtection #DataSecurity #IdentityTheftProtection #CyberCrimePrevention #SoftwareSecurity #NetworkDefense #CyberSecurityAwareness #ITSecurity #DigitalSecurity #SecureDevelopment #CyberThreatIntelligence #ThreatDetection #SecurityEngineering #EndpointSecurity #CloudSecurity #WebSecurity #PasswordSecurity #PatchManagement #CyberTraining #CyberHygiene #PhishingPrevention #CyberAttackPrevention #ZeroDayVulnerabilities #SecureCoding #SecurityOperations #CyberSecurityAwarenessMonth
 
 For Reporting pl, reach out to **Contact Details** ---> **[CERT-In](https://www.cve.org/PartnerInformation/ListofPartners/partner/CERT-In)** 
+
+Getting started with [**Hardware-and-IoT-Hacking**](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking)
+
+Happy hacking 
+"Stay curious, stay inventive, and stay tuned for the next big breakthrough in hardware hacking."
