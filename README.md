@@ -31,3 +31,5 @@ https://www.youtube.com/@aloneistvines7457
 
 
 #HardwareSecurity #Cybersecurity #EthicalHacking #InformationSecurity #VulnerabilityResearch #EmbeddedSystems #IoTSecurity #FirmwareSecurity #InfoSecAwareness #NetworkSecurity #DataPrivacy #CyberThreats #DigitalForensics #PenetrationTesting #CyberAwareness #MalwareAnalysis #CyberDefense #SecurityAwareness #CyberEducation #RiskAssessment #IncidentResponse #CyberResilience #CyberRiskManagement #ThreatIntelligence #PrivacyProtection #DataSecurity #IdentityTheftProtection #CyberCrimePrevention #SoftwareSecurity #NetworkDefense #CyberSecurityAwareness #ITSecurity #DigitalSecurity #SecureDevelopment #CyberThreatIntelligence #ThreatDetection #SecurityEngineering #EndpointSecurity #CloudSecurity #WebSecurity #PasswordSecurity #PatchManagement #CyberTraining #CyberHygiene #PhishingPrevention #CyberAttackPrevention #ZeroDayVulnerabilities #SecureCoding #SecurityOperations #CyberSecurityAwarenessMonth
+
+For Reporting pl, reach out to **Contact Details** ---> https://www.cve.org/PartnerInformation/ListofPartners/partner/CERT-In
