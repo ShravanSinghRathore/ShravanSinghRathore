@@ -1,3 +1,6 @@
+
+
+
 Entropy:
 ent Firmware.bin
 
@@ -117,3 +120,18 @@ ls -l
 
 # Cat contents of all files named "configuration_file" in the current directory
 cat configuration_file
+
+
+![MicrosoftTeams-image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/97169dbd-e5c1-4a0d-880f-e614cdcd81a8)
+![MicrosoftTeams-image (12)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/61d0ed31-93eb-4d72-be90-9ce3984e8f91)
+![MicrosoftTeams-image (10)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/a5d4280a-c343-4b3c-9b6a-d74e589bb82e)
+![MicrosoftTeams-image (9)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/016706b4-37fb-47f6-b3a2-2e564f222359)
+![MicrosoftTeams-image (8)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/9baf14c6-e39d-4deb-8ef2-02ad581b44cb)
+![MicrosoftTeams-image (7)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/e587e9df-884d-4c18-a982-5a3db630dd5a)
+![MicrosoftTeams-image (6)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/62452c07-0eec-43da-bc36-68797b9b583c)
+![MicrosoftTeams-image (5)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/8816d979-4a99-47f0-becf-2d36789d5f4e)
+![MicrosoftTeams-image (4)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/45b8ac65-35e1-4809-a581-901d31314053)
+![MicrosoftTeams-image (3)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/ad088607-80d6-4591-add2-d3cf3ed70191)
+![MicrosoftTeams-image (2)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/e52401a0-7921-47b6-b425-8f9caf4ee60a)
+![MicrosoftTeams-image (1)](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/672c440f-0195-4a94-a451-81381c14a647)
+
