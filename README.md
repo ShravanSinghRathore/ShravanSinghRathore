@@ -1,5 +1,7 @@
 # **Hardware hacking is like solving a puzzle with infinite solutions**
 
+[![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/df7c1724-0456-4195-a2bd-67c6ebebe845)](https://camo.githubusercontent.com/e02c901965934f0596aebd1e107b591b4a4c9ec21ab01a0936fed761eaa242b7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)
+
 🛡️ **साइबर सुरक्षा प्रेमी**
 
 खम्मा घणी! (Greetings), I'm **श्र-1 Singh Rathore**, a passionate cybersecurity professional dedicated to fortifying digital landscapes. I hold an M.Tech degree from Veermata Jijabai Technology Institute and currently serve as a Hardware Cybersecurity Researcher.
