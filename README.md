@@ -12,21 +12,21 @@ In this ever-changing cybersecurity landscape, I thrive on continuous learning. 
 Over the years, I've contributed to securing networks, conducting penetration tests, and devising robust cybersecurity strategies for diverse organizations. My hands-on experience ranges from identifying vulnerabilities to implementing tailored security solutions.
 
 🌐 **समुदाय समर्थन:**
-Beyond professional endeavors, I actively engage with the cybersecurity community. Whether sharing insights on blogs, participating in forums, or collaborating on open-source projects, I believe in fostering knowledge exchange and collective defense.
+Beyond professional endeavours, I actively engage with the cybersecurity community. Whether sharing insights on blogs, participating in forums, or collaborating on open-source projects, I believe in fostering knowledge exchange and collective defence.
 
 👥 **सहयोग:**
-I'm always open to collaboration and welcome opportunities to work with like-minded professionals, organizations, and researchers. Together, we can strengthen our digital defenses and create a safer online environment.
+I'm always open to collaboration and welcome opportunities to work with like-minded professionals, organizations, and researchers. Together, we can strengthen our digital defences and create a safer online environment.
 
 📧 **मेरे साथ जुड़ें:**
 Feel free to connect with me to discuss cybersecurity trends, share insights, or explore potential collaborations. Let's work together to build a resilient and secure digital future.
 
-https://www.linkedin.com/in/shravan-s-628b36172/
+![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/c065431f-c800-443f-aaf0-e6f36b6c630c) https://www.linkedin.com/in/shravan-s-628b36172/
 
-https://www.instagram.com/shrrra.1/
+![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/1a466177-ac09-41d6-895c-ea905454af81) https://www.instagram.com/shrrra.1/
 
-https://api.whatsapp.com/send?phone=9326696110
+![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/c6c08cf5-4909-4cc8-9c66-bf97369e01dc) https://api.whatsapp.com/send?phone=9326696110
 
-https://www.youtube.com/@aloneistvines7457
+![image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/a0d62a51-e396-4817-94e7-df4585eb7b5d) https://www.youtube.com/@aloneistvines7457
 
 
 
