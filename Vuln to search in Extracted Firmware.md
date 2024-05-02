@@ -1,4 +1,10 @@
 
+# This command utilizes the Dirb tool for directory brute-forcing on a target web server. Here's what it does:
+
+## Dirb: Brute-forces directories and files on a target web server using a specified wordlist.
+### Command: dirb http://<target_ip> /path/to/wordlist.txt
+
+
 
 
 Entropy:
