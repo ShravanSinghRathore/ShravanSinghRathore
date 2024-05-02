@@ -34,7 +34,7 @@ For Reporting pl, reach out to **Contact Details** ---> **[CERT-In](https://www.
 
 Getting started with [**Hardware-and-IoT-Hacking**](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking)
 
-### [VM Ware Workstation for Windows](https://www.vmware.com/go/getplayer-win) / [VM Ware Workstation for Linux](https://www.vmware.com/go/getplayer-linux) [Kali Linux Image](https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-installer-amd64.iso)
+### ☆*: .｡. o(≧▽≦)o .｡.:*☆[VM Ware Workstation for Windows](https://www.vmware.com/go/getplayer-win) / (●'◡'●)[VM Ware Workstation for Linux](https://www.vmware.com/go/getplayer-linux) / (❁´◡`❁)[Kali Linux Image](https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-installer-amd64.iso)
 
 
 ## [**CVE 2024-28327**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-28327)
