@@ -37,13 +37,13 @@ Getting started with [**Hardware-and-IoT-Hacking**](https://github.com/CyberSecu
 ### 🔗[VM Ware Workstation for Windows](https://www.vmware.com/go/getplayer-win) / 🔗[VM Ware Workstation for Linux](https://www.vmware.com/go/getplayer-linux) / 🔗[Kali Linux Image](https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-installer-amd64.iso)
 
 
-## [**CVE 2024-28327**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-28327)
-## [**CVE-2024-25343**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25343)
-## [**CVE-2024-28326**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-28326)
-## [**CVE-2024-28325**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-28325)
-## [**CVE 2024-28328**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-28328)
+## 📌[**CVE 2024-28327**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-28327)
+## 📌[**CVE-2024-25343**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25343)
+## 📌[**CVE-2024-28326**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-28326)
+## 📌[**CVE-2024-28325**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-28325)
+## 📌[**CVE 2024-28328**](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-28328)
 
-# **Happy hacking**
+# **Happy hacking☠️**
 
 **[![SleepySoSleepyGIF](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/709fbb6f-f9a5-4294-b901-9e608ed408bb)](https://cveform.mitre.org/)**
 ### **"Stay curious, stay inventive, and stay tuned for the next big breakthrough in hardware hacking."**
