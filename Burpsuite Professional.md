@@ -1,4 +1,4 @@
-#---> Burp Suite Professional is like a superhero for web application security testing, trusted by security professionals for its wide range of capabilities. Let's take a friendly tour through its key components:
+# ---> Burp Suite Professional is like a superhero for web application security testing, trusted by security professionals for its wide range of capabilities. Let's take a friendly tour through its key components:
 
 ## Burp Suite GUI:
 Command: burpsuite
