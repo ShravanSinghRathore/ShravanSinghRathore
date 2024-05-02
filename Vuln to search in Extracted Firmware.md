@@ -1,12 +1,13 @@
 
-# This command utilizes the Dirb tool for directory brute-forcing on a target web server. Here's what it does:
+## This command utilizes the Dirb tool for directory brute-forcing on a target web server. Here's what it does:
 Dirb: Brute-forces directories and files on a target web server using a specified wordlist.
 
 Command: **dirb http://<target_ip> /path/to/wordlist.txt**
 
-# Here's the command for using Nikto:
+## Here's the command for using Nikto:
 
 Nikto: Scans a target web server for vulnerabilities and misconfigurations.
+
 Command: **nikto -h http://<target_ip>**
 
 
