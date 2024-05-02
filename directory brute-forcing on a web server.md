@@ -1,4 +1,4 @@
-### Dirsearch: Recursively scans a target URL for directories and files using common names.
+## Dirsearch: Recursively scans a target URL for directories and files using common names.
 
 Command: **python3 dirsearch.py -u http://<target_ip>**
 
