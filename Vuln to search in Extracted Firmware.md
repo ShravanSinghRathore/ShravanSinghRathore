@@ -1,130 +1,136 @@
 
 # This command utilizes the Dirb tool for directory brute-forcing on a target web server. Here's what it does:
 Dirb: Brute-forces directories and files on a target web server using a specified wordlist.
+
 Command: **dirb http://<target_ip> /path/to/wordlist.txt**
 
+# Here's the command for using Nikto:
+
+Nikto: Scans a target web server for vulnerabilities and misconfigurations.
+Command: **nikto -h http://<target_ip>**
 
 
-# For Binary testing Command follow below
+
+# For Binary testing Command, follow the below
 Entropy:
-ent Firmware.bin
+**ent Firmware.bin**
 
-grep -r -i -E 'username|password'
+**grep -r -i -E 'username|password'**
 
-Search for Common Vulnerability Patterns:        grep -r -i -E 'password|secret|api_key'
-
-
-Scan for Format String Vulnerabilities:         grep -r -i -E '%[a-zA-Z0-9_]{1,10}' 
-
-Search for Dangerous Function Calls( Command Injection Vulnerablity ):          grep -r -i -E 'system\(|exec\(|shell_exec\(|passthru\(|popen\(' 
+Search for Common Vulnerability Patterns:        **grep -r -i -E 'password|secret|api_key'**
 
 
-grep -r -i -E 'gets\(|strcpy\(|sprintf\(|printf\(|scanf\('
+Scan for Format String Vulnerabilities:         **grep -r -i -E '%[a-zA-Z0-9_]{1,10}'** 
 
-grep -r -i -E 'mysql_query\(|mysqli_query\(|pg_query\(|execute\(|query\('
-
-
-grep -r -i -E 'http_|ftp_'
-
-grep -r -i -E 'malloc\(|free\(|memcpy\(|memset\('
+Search for Dangerous Function Calls( Command Injection Vulnerablity ):          **grep -r -i -E 'system\(|exec\(|shell_exec\(|passthru\(|popen\('** 
 
 
-grep -r -i -E 'api_key|secret_key'
+**grep -r -i -E 'gets\(|strcpy\(|sprintf\(|printf\(|scanf\('**
+
+**grep -r -i -E 'mysql_query\(|mysqli_query\(|pg_query\(|execute\(|query\('**
 
 
-Check for File Permission Issues::         find -type f ! -perm 600 -exec ls -l {} \;
+**grep -r -i -E 'http_|ftp_'**
 
-Identify Sensitive Information in Logs:          grep -r -i -E 'apikey|token|password' /var/log 
-
-Look for Code Injection Points:             grep -r -i -E 'system\(|exec\(|eval\('
+**grep -r -i -E 'malloc\(|free\(|memcpy\(|memset\('**
 
 
-Check for Cross-Site Scripting (XSS) Patterns:          grep -r -i -E 'echo\(|print\(|printf\(|document\.write\('
+**grep -r -i -E 'api_key|secret_key'**
 
 
-Search for Dangerous System Calls:                grep -r -i -E 'system\(|popen\(|exec\(|shell_exec\('
+Check for File Permission Issues::         **find -type f ! -perm 600 -exec ls -l {} \;**
 
-Examine Cryptographic Implementations:            grep -r -i -E 'md5\(|sha1\(|base64_encode\('
+Identify Sensitive Information in Logs:          **grep -r -i -E 'apikey|token|password' /var/log** 
+
+Look for Code Injection Points:             **grep -r -i -E 'system\(|exec\(|eval\('**
 
 
-Check for Unprotected Database Connections:        grep -r -i -E 'mysql_connect\(|mysqli_connect\(|pg_connect\('
+Check for Cross-Site Scripting (XSS) Patterns:          **grep -r -i -E 'echo\(|print\(|printf\(|document\.write\('**
 
 
-strings Firmware.bin | grep -iE "version|firmware|release"
+Search for Dangerous System Calls:                **grep -r -i -E 'system\(|popen\(|exec\(|shell_exec\('**
+
+Examine Cryptographic Implementations:            **grep -r -i -E 'md5\(|sha1\(|base64_encode\('**
+
+
+Check for Unprotected Database Connections:        **grep -r -i -E 'mysql_connect\(|mysqli_connect\(|pg_connect\('**
+
+
+**strings Firmware.bin | grep -iE "version|firmware|release"**
 
 
 Check Running Processes:
-ps aux
+**ps aux**
 
 Check Listening Ports:
-netstat -tulpn
+**netstat -tulpn**
 
 Check Open Files:
-lsof
+**lsof**
 
 Check Network Connections:
-netstat -an
+**netstat -an**
 
 Check Log Files:
-View system logs:
+**View system logs:**
 
-cat /var/log/syslog
+**cat /var/log/syslog**
 
 View authentication logs:
 
-cat /var/log/auth.log
+**cat /var/log/auth.log**
 
 Check User Accounts:
 
 
-cat /etc/passwd
+**cat /etc/passwd**
 
 Check SUID/SGID Binaries:
 
 
-find / -type f \( -perm -4000 -o -perm -2000 \) -exec ls -l {} \;
+**find / -type f \( -perm -4000 -o -perm -2000 \) -exec ls -l {} \;**
 
 Check Startup Services:
 
-systemctl list-units --type=service
-
+**systemctl list-units --type=service
+**
 Check Modified Files:
 
-find / -mtime -1
+**find / -mtime -1**
 
 Check for Rootkits:
 
 
-rkhunter --check
+**rkhunter --check**
 
 Check for Malware and Viruses:
 
-clamscan -r /
+**clamscan -r /**
 
 Check Network Traffic:
 
 
-tcpdump -i eth0
+**tcpdump -i eth0**
 
 
 
 # Analyze all files in the current directory for sensitive information
-strings * | grep -iE 'password|auth|key|config|credentials'
+**strings * | grep -iE 'password|auth|key|config|credentials'**
 
 # Analyze all files in the current directory for configuration-related strings
-strings * | grep -iE 'config|settings|conf'
+**strings * | grep -iE 'config|settings|conf'**
 
 # Analyze all files in the current directory for network-related information
-strings * | grep -iE 'ip|port|network'
+**strings * | grep -iE 'ip|port|network'**
 
 # Analyze all files in the current directory for error messages or vulnerabilities
-strings * | grep -iE 'error|exception|vulnerable|exploit'
+**strings * | grep -iE 'error|exception|vulnerable|exploit'**
 
 # List detailed information about all files in the current directory
-ls -l
+**ls -l**
 
 # Cat contents of all files named "configuration_file" in the current directory
-cat configuration_file
+**cat configuration_file**
 
 
 ![MicrosoftTeams-image](https://github.com/ShravanSinghRathore/ShravanSinghRathore/assets/161594463/97169dbd-e5c1-4a0d-880f-e614cdcd81a8)
