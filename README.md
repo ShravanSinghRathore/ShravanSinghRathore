@@ -32,7 +32,7 @@ Feel free to connect with me to discuss cybersecurity trends, share insights, or
 
 For Reporting pl, reach out to **Contact Details** ---> **[CERT-In](https://www.cve.org/PartnerInformation/ListofPartners/partner/CERT-In)** 
 
-Getting started with [**Hardware-and-IoT-Hacking**](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking)
+Getting started with 🙈[**Hardware-and-IoT-Hacking**](https://github.com/CyberSecurityUP/Awesome-Hardware-and-IoT-Hacking) 🙉[**IoTSecurity101**](IoTSecurity101)
 
 ### 🔗[VM Ware Workstation for Windows](https://www.vmware.com/go/getplayer-win) / 🔗[VM Ware Workstation for Linux](https://www.vmware.com/go/getplayer-linux) / 🔗[Kali Linux Image](https://cdimage.kali.org/kali-2024.1/kali-linux-2024.1-installer-amd64.iso)
 
